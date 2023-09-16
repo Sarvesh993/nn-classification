@@ -159,7 +159,7 @@ print(le.inverse_transform(x_prediction))
 ![](jii.png)
 
 ## OUTPUT
-### Training Loss, Validation Loss Vs Iteration Plot
+
 ![](jii1.png)
 ![](jii2.png)
 
